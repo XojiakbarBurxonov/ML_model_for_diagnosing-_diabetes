@@ -9,21 +9,21 @@ All patients in the dataset are women at least 21 years old.
 
 **Columns:**
 
-#Pregnancies:
+- Pregnancies:
 
-#Glucose: Glucose test result
+- Glucose: Glucose test result
 
-#BloodPressure: (mm Hg)
+- BloodPressure: (mm Hg)
 
-#SkinThickness: Triceps skinfold thickness (mm)
+- SkinThickness: Triceps skinfold thickness (mm)
 
-#Insulin: 2-hour serum insulin (mu U/ml)
+- Insulin: 2-hour serum insulin (mu U/ml)
 
-#BMI: Body mass index (weight kg / (m height) ^ 2)
+- BMI: Body mass index (weight kg / (m height) ^ 2)
 
-#DiabetesPedigreeFunction: pedigree function of diabetes
+- DiabetesPedigreeFunction: pedigree function of diabetes
 
-#Age: (year)
+- Age: (year)
 
 #Outcome: Class (0 - non diabet , 1 - diabet)
 
